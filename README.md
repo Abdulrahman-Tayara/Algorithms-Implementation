@@ -1,5 +1,5 @@
 # Algorithms-Implementation
-Algorithms Implementation built on Puzzle Game (Bloxorz).
+Algorithms Implementation, implemented on Puzzle Game (Bloxorz).
 
 # Implemented Algorithms:
 * DFS
